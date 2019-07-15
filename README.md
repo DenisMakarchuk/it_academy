@@ -1,2 +1,2 @@
-<p>It's my aducational repository<p>
+<h1 alight = center>This is my traning repository<h1>
 <hr>
