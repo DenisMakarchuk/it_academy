@@ -1,1 +1,2 @@
-# it_academy
+<p>It's my aducational repository<p>
+<hr>
