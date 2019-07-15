@@ -1,6 +1,6 @@
 <h1 align = "center">This is my traning repository</h1>
 <hr>
-<p>These are my home projects throughout the course:
+<p align="justify">These are my home projects throughout the course:
 Folder hw 01 - Ordering algorithm for booking.com
 Folder assets - PrtSc's of IL-code of type conversion
 hw_02_Task1 - Type conversion
