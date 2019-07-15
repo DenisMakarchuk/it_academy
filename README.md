@@ -1,2 +1,2 @@
-<h1 alight = center>This is my traning repository<h1>
+<h1 align = center>This is my traning repository<h1>
 <hr>
