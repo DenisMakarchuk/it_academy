@@ -17,21 +17,8 @@ namespace hw_08_Task1
             for (int i = 0; i < poemArr.Length; i++)
             {
                 poemArr[i] = poemArr[i].Replace('o', 'a').Replace('O','A');
-                //    for (int j = 0; j < poemArr[i].Length; j++)
-                //    {
-
-                //        switch (poemArr[i][j])
-                //        {
-                //            case 'o':
-                //                poemArr[i][j] = 'a';
-                //                break;
-                //            case 'O':
-                //                poemArr[i][j] = 'A';
-                //                break;
-                //        }
-
-                //    }
             }
+
             for (int i = 0; i < poemArr.Length; i++)
             {
                 Console.WriteLine(poemArr[i]);
