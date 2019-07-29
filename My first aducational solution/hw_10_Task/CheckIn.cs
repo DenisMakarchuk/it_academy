@@ -22,13 +22,17 @@ namespace hw_10_Task
             Flight flight = new Flight(country, date, weightBaggage);
 
             Console.WriteLine();
+
             Console.WriteLine("The information about your flight:");
             Console.WriteLine();
+
             fullName.FullNameToString();
             Console.WriteLine();
+
             passport.PassportToString();
             Console.WriteLine();
-            flight.FlightInformalionToString();
+
+            flight.FlightInformationToString();
         }
     }
 }

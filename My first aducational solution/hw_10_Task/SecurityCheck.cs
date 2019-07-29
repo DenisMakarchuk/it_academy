@@ -14,6 +14,7 @@ namespace hw_10_Task
 
             Console.WriteLine("Have you any liquid volume of more than 100 ml? (yes/no)");
             bool unswer1 = Console.ReadLine().ToUpper().Equals("YES") ? false : true;
+
             if (!unswer1)
             {
                 Console.WriteLine("It can not be taken on board. Turn in the baggage?");
@@ -27,6 +28,7 @@ namespace hw_10_Task
 
             Console.WriteLine("Have you something forbidden?");
             bool unswer2 = Console.ReadLine().ToUpper().Equals("YES") ? true : false;
+
             if (unswer2)
             {
                 Console.WriteLine("You are detained!");

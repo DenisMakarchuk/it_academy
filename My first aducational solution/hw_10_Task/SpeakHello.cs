@@ -12,6 +12,7 @@ namespace hw_10_Task
         {
             var time = DateTime.Now.Hour;
             bool isTrueTime = true;
+
             switch (isTrueTime)
             {
                 case true when (time >= 6 && time < 12):

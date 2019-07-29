@@ -69,6 +69,7 @@ namespace hw_10_Task
                 country = Console.ReadLine();
             }
             while (IsLellers.LettersTrue(country) != true);
+
             do
             {
                 try
@@ -81,6 +82,7 @@ namespace hw_10_Task
                     break;
             }
             while (true);
+
             do
             {
                 try

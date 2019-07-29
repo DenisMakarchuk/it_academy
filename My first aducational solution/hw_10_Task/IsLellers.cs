@@ -21,6 +21,7 @@ namespace hw_10_Task
             }
             return true;
         }
+
         public static bool LerrerPatronymic(string letters)
         {
             for (int i = 0; i < letters.Length; i++)

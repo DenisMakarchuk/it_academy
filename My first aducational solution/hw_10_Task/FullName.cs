@@ -11,8 +11,10 @@ namespace hw_10_Task
         readonly string _name;
         readonly string _surname;
         readonly string _patronymic;
+
         public FullName(string name, string surname) { _name = name.ToUpper(); _surname = surname.ToUpper(); }
         public FullName(string name, string surname, string patronymic) { _name = name.ToUpper(); _surname = surname.ToUpper(); _patronymic = patronymic.ToUpper(); }
+
         public void FullNameToString()
         {
             Console.WriteLine($"Name: {_name}");

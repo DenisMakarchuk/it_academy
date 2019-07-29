@@ -12,6 +12,7 @@ namespace hw_10_Task
         {
             Console.WriteLine("Check-in\n");
             CheckIn.Check();
+
             Console.WriteLine();
 
             Console.WriteLine("Security check\n");

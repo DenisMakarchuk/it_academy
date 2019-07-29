@@ -10,7 +10,9 @@ namespace hw_10_Task
     {
         readonly string _series;
         readonly int _numPassport;
+
         public Passport(string series, int numpass) { _series = series.ToUpper(); _numPassport = numpass; }
+
         public void PassportToString()
         {
             Console.WriteLine("Passport information:");
