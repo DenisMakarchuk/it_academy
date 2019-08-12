@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_08_Task1", "hw_08_Task1\
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_08_Task2", "hw_08_Task2\hw_08_Task2.csproj", "{E0E4AC6C-AE57-4725-801E-F112D09E8601}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_0_AssemblyOne", "hw_0_AssemblyOne\hw_0_AssemblyOne.csproj", "{FCBB962D-3192-4A3D-97DA-3375B421F0D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_0_AssemblyTwo", "hw_0_AssemblyTwo\hw_0_AssemblyTwo.csproj", "{477887BA-CF07-4A61-A0AA-316E9F225121}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -74,6 +78,14 @@ Global
 		{E0E4AC6C-AE57-4725-801E-F112D09E8601}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E0E4AC6C-AE57-4725-801E-F112D09E8601}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E0E4AC6C-AE57-4725-801E-F112D09E8601}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FCBB962D-3192-4A3D-97DA-3375B421F0D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FCBB962D-3192-4A3D-97DA-3375B421F0D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FCBB962D-3192-4A3D-97DA-3375B421F0D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FCBB962D-3192-4A3D-97DA-3375B421F0D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{477887BA-CF07-4A61-A0AA-316E9F225121}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{477887BA-CF07-4A61-A0AA-316E9F225121}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{477887BA-CF07-4A61-A0AA-316E9F225121}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{477887BA-CF07-4A61-A0AA-316E9F225121}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
