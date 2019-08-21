@@ -19,4 +19,8 @@ hw_07_Task2 - Inserts the specified number at the specified position in the arra
 hw_07_Task3 - Reverse the array<br>
   hw_08_Task1 - Breaks the string by ";" to an array, swaps "O" and "A", displays the array in a column<br>
   hw_08_Task2 - Deletes the longest word in the line, swaps the long and short words, counts the number of punctuation marks and letters<br>
+hw_0_Assembly* - Shows possible combinations of access modifiers<br>
+  hw_10_Task - Simulates the process of registration and control at the airport<br>
+hw_11_Task - Allows you to set a song and display information about it<br>
+  hw_13_Task - Creates a list and performs CRUD operations<br>
 </p>
