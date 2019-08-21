@@ -13,6 +13,8 @@ namespace hw_13_Task
         public static readonly ILog log = LogManager.GetLogger(typeof(Program));
         static void Main(string[] args)
         {
+            Logger.InitLogger();
+
             MotorcycleRepository motorcycleRepository = new MotorcycleRepository();
 
             Motorcycle motorcycle = new Motorcycle("Honda", "CB", 2014, 23);
