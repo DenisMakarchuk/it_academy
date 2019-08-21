@@ -34,6 +34,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_11_Task", "hw_11_Task\hw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_13_UnoqueItem", "hw_13_UnoqueItem\hw_13_UnoqueItem.csproj", "{AA6EBBE6-E7E6-45C6-9BE5-4D03B6A9FF96}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "hw_13_Task", "hw_13_Task\hw_13_Task.csproj", "{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -104,6 +106,10 @@ Global
 		{AA6EBBE6-E7E6-45C6-9BE5-4D03B6A9FF96}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AA6EBBE6-E7E6-45C6-9BE5-4D03B6A9FF96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AA6EBBE6-E7E6-45C6-9BE5-4D03B6A9FF96}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

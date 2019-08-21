@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{AA6EBBE6-E7E6-45C6-9BE5-4D03B6A9FF96}</ProjectGuid>
+    <ProjectGuid>{6BD686EE-9FBC-46CA-A5BC-A06C3065FEF0}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>hw_13_UnoqueItem</RootNamespace>
-    <AssemblyName>hw_13_UnoqueItem</AssemblyName>
+    <RootNamespace>hw_13_Task</RootNamespace>
+    <AssemblyName>hw_13_Task</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -33,6 +33,9 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <ItemGroup>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="System" />
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
@@ -43,9 +46,12 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="IMotorcycleRepository.cs" />
+    <Compile Include="Logger.cs" />
+    <Compile Include="Motorcycle.cs" />
+    <Compile Include="MotorcycleRepository.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="UniqueItem.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
