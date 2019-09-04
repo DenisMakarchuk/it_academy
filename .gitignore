@@ -459,3 +459,7 @@ UpgradeLog*.htm
 
 # Microsoft Fakes
 FakesAssemblies/
+
+# other files to ignore
+old-log4net.snk
+src/GeneratedAssemblyInfo.cs
